@@ -1,0 +1,92 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: "Poliranje Auta "
+  label: "Poliranje Auta BA na 065 019 012"
+  picture: "/assets/img/logo.png"
+  email: "PoliranjeAuta.BA@gmail.com"
+  phone: "+38765019012"
+  website: "https://PoliranjeAuta.BA"
+  summary: >
+    Hvala vam što razmatrate naše usluge Poliranje Auta. Ako želite unaprediti svoj prostor čistoće i svežine ili imate specifična pitanja o našim uslugama, slobodno nas kontaktirajte. Naš tim je tu da vam pruži sve potrebne informacije i asistira vam u procesu rezervacije.
+  location:
+    address: "Centar"
+    postalCode: "79000"
+    city: "Prijedor"
+    countryCode: "BA"
+    region: "Republika Srpska"
+  profiles:
+    - network: "Instagram"
+      username: "PoliranjeAutaBA"
+      url: "https://www.instagram.com/PoliranjeAutaBA/"
+    - network: "Facebook"
+      username: "PoliranjeAutaBA"
+      url: "https://www.facebook.com/PoliranjeAutaBA"
+    - network: "YouTube"
+      username: "PoliranjeAutaBA"
+      url: "https://www.youtube.com/@PoliranjeAutaBA"
+    - network: "Twitter"
+      username: "PoliranjeAutaBA"
+      url: "https://twitter.com/DubinskoCisceBA"
+    - network: "LinkedIn"
+      username: "PoliranjeAutaBA"
+      url: "https://www.linkedin.com/in/PoliranjeAutaBA/"
+skills:
+  - name: "Poliranje Auta "
+    level: "Master"
+    keywords:
+      - "profesionalno čišćenje"
+      - "održavanje higijene"
+      - "Poliranje Auta  tepiha"
+      - "čišćenje prostora"
+  - name: "Restoransko Čišćenje"
+    level: "Master"
+    keywords:
+      - "restoransko održavanje"
+      - "dezinfekcija restorana"
+      - "higijena restorana"
+  - name: "Higijenski Saveti"
+    level: "Master"
+    keywords:
+      - "higijenski trikovi"
+      - "saveti za održavanje čistoće"
+      - "osvežavanje vazduha"
+      - "uklanjanje neprijatnih mirisa"
+languages:
+  - language: "Ex YU"
+    fluency: "Native speaker"
+  - language: "Slovenački"
+    fluency: "Native speaker"
+  - language: "Nemački"
+    fluency: "Native speaker"
+  - language: "Engleski"
+    fluency: "Native speaker"
+references:
+  - name: "Emina"
+    reference: >
+      Zadovoljstvo saradnjom sa PoliranjeAuta.BA! Ekipa je ne samo profesionalna već i ljubazna. Njihovo Poliranje Auta  je transformisalo moj dom. Preporučujem svima koji žele kvalitetnu uslugu i osvežen prostor.
+  
+  - name: "Dino"
+    reference: >
+      Imali smo priliku sarađivati s timom iz PoliranjeAuta.BA, i rezultati su bili iznad očekivanja. Sjajna ekipa, brza i efikasna usluga. Svaka pohvala za njihovu posvećenost i pažnju prema detaljima.
+  
+  - name: "Lejla"
+    reference: >
+      Sve pohvale za tim PoliranjeAuta.BA! Naša kuća sada blista, a saradnja je bila veoma prijatna iskustva. Profesionalni pristup i fleksibilnost u radu čine ih pravim liderima u oblasti Poliranje Auta.
+
+  - name: "Amar"
+    reference: >
+      Zahvaljujem se timu PoliranjeAuta.BA na besprekornoj usluzi. Osvežili su naš restoran na način koji je oduševio i naše goste. Profesionalnost i efikasnost su im jača strana. Preporučujemo ih svima!
+  
+  - name: "Mirela"
+    reference: >
+      Iskreno zadovoljstvo saradnjom s PoliranjeAuta.BA. Njihovo čišćenje stana je transformisalo naš prostor, a ekipa je bila izuzetno ljubazna i pažljiva. Toplo preporučujem njihove usluge!
+
+  - name: "Haris"
+    reference: >
+      Naša firma ima samo reči hvale za tim PoliranjeAuta.BA. Održali su našu kancelariju besprekorno čistom. Efikasnost i posvećenost poslu su ono što ih izdvaja. Sjajan izbor za profesionalno čišćenje prostora.
+
+  - name: "Amila"
+    reference: >
+      Saradnja sa PoliranjeAuta.BA je bila pravo osveženje. Osoblje je veoma stručno, prilagodljivo i tačno. Naša porodična kuća sada sija zahvaljujući njihovom dubinskom čišćenju. Preporučujem ih sa zadovoljstvom!
