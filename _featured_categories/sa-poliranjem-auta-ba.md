@@ -3,14 +3,14 @@
 layout: grid
 
 # The title of the tag's page.
-title: Sa Dubinskim Čišćenjem
+title: Sa Poliranjem Auta BA
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: sa-dubinskim-ciscenjem
+slug: sa-poliranjem-auta-ba
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Saznajte tajne savršenog doma uz našu kategoriju -Sa Dubinskim Čišćenjem-. #DubinskoČišćenje #ČistDom #SavetiZaČišćenje
+  PoliranjeAuta.BA je vaš pouzdani vodič kroz svet pranja i poliranja automobila, pružajući sveobuhvatne savete, tehnike i informacije kako biste postigli vrhunski sjaj i očuvali izgled vašeg vozila.
 
 tags: [<slug>]
 
