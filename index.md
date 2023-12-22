@@ -11,8 +11,8 @@ selected_projects:
 - _projects/restoransko-ciscenje.md
 more_projects: usluge-poliranje-auta.md
 selected_posts:
-  - sa-poliranjem-auta/_posts/2023-09-01-ocistite-kancelariju-nakon-timskog-okupljanja-radno-mesto-bez-nereda.md
-  - sa-poliranjem-auta/_posts/2023-09-02-dubinsko-ciscenje-za-sve-generacije-ocistite-sa-stilom.md
+  - sa-poliranjem-auta-ba/_posts/2023-12-12-kada-i-zasto-polirati-automobil.md
+  - sa-poliranjem-auta-ba/_posts/2023-09-11-kako-polirati-farove-na-automobilu-vodic-za-bolju-vidljivost.md
 more_posts: posts.md
 featured: true
 ---
