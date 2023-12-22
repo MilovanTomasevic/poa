@@ -9,7 +9,7 @@ basics:
   phone: "+38765019012"
   website: "https://PoliranjeAuta.BA"
   summary: >
-    Hvala vam što razmatrate naše usluge Poliranje Auta. Ako želite unaprediti svoj prostor čistoće i svežine ili imate specifična pitanja o našim uslugama, slobodno nas kontaktirajte. Naš tim je tu da vam pruži sve potrebne informacije i asistira vam u procesu rezervacije.
+    "Obratite se Poliranje Auta BA i osigurajte vrhunsku brigu za izgled vašeg vozila. Naša posvećena ekipa stručnjaka za poliranje auta stoji vam na raspolaganju, pružajući vrhunsku uslugu i postižući besprekoran sjaj vašeg vozila. Kontaktirajte nas putem telefona na [065 019 012](tel:+38765019012) kako biste rezervisali termin ili saznali više o našim uslugama poliranja auta. Vaš automobil zaslužuje najbolje, a mi smo tu da ga učinimo sjajnim!"
   location:
     address: "Centar"
     postalCode: "79000"
@@ -33,26 +33,13 @@ basics:
       username: "PoliranjeAutaBA"
       url: "https://www.linkedin.com/in/PoliranjeAutaBA/"
 skills:
-  - name: "Poliranje Auta "
+  - name: "Stručnost u Poliranju Auta"
     level: "Master"
     keywords:
-      - "profesionalno čišćenje"
-      - "održavanje higijene"
-      - "Poliranje Auta  tepiha"
-      - "čišćenje prostora"
-  - name: "Restoransko Čišćenje"
-    level: "Master"
-    keywords:
-      - "restoransko održavanje"
-      - "dezinfekcija restorana"
-      - "higijena restorana"
-  - name: "Higijenski Saveti"
-    level: "Master"
-    keywords:
-      - "higijenski trikovi"
-      - "saveti za održavanje čistoće"
-      - "osvežavanje vazduha"
-      - "uklanjanje neprijatnih mirisa"
+      - "profesionalno poliranje vozila"
+      - "održavanje visokog sjaja boje"
+      - "uklanjanje sitnih ogrebotina i swirl markica"
+      - "upotreba premijum polirajućih sredstava"
 languages:
   - language: "Ex YU"
     fluency: "Native speaker"
@@ -63,30 +50,30 @@ languages:
   - language: "Engleski"
     fluency: "Native speaker"
 references:
-  - name: "Emina"
+  - name: "Adnan"
     reference: >
-      Zadovoljstvo saradnjom sa PoliranjeAuta.BA! Ekipa je ne samo profesionalna već i ljubazna. Njihovo Poliranje Auta  je transformisalo moj dom. Preporučujem svima koji žele kvalitetnu uslugu i osvežen prostor.
-  
-  - name: "Dino"
-    reference: >
-      Imali smo priliku sarađivati s timom iz PoliranjeAuta.BA, i rezultati su bili iznad očekivanja. Sjajna ekipa, brza i efikasna usluga. Svaka pohvala za njihovu posvećenost i pažnju prema detaljima.
-  
-  - name: "Lejla"
-    reference: >
-      Sve pohvale za tim PoliranjeAuta.BA! Naša kuća sada blista, a saradnja je bila veoma prijatna iskustva. Profesionalni pristup i fleksibilnost u radu čine ih pravim liderima u oblasti Poliranje Auta.
+      Rad sa ekipom PoliranjeAuta.BA bio je izuzetno pozitivan doživljaj. Njihova stručnost u poliranju vozila ostavila je trajan utisak na izgled mog automobila. Veoma su predani i ljubazni. Preporučujem ih svima koji žele vrhunsku uslugu.
 
-  - name: "Amar"
+  - name: "Selma"
     reference: >
-      Zahvaljujem se timu PoliranjeAuta.BA na besprekornoj usluzi. Osvežili su naš restoran na način koji je oduševio i naše goste. Profesionalnost i efikasnost su im jača strana. Preporučujemo ih svima!
-  
-  - name: "Mirela"
-    reference: >
-      Iskreno zadovoljstvo saradnjom s PoliranjeAuta.BA. Njihovo čišćenje stana je transformisalo naš prostor, a ekipa je bila izuzetno ljubazna i pažljiva. Toplo preporučujem njihove usluge!
+      Saradnja sa timom PoliranjeAuta.BA bila je više od očekivanja. Profesionalni pristup, brza usluga i pažljiv rad na detaljima učinili su da moje vozilo zablista. Toplo preporučujem njihove usluge poliranja auta.
 
-  - name: "Haris"
+  - name: "Mirza"
     reference: >
-      Naša firma ima samo reči hvale za tim PoliranjeAuta.BA. Održali su našu kancelariju besprekorno čistom. Efikasnost i posvećenost poslu su ono što ih izdvaja. Sjajan izbor za profesionalno čišćenje prostora.
+      Zahvaljujem se PoliranjeAuta.BA na transformaciji mog vozila. Njihovo poliranje je učinilo čuda za boju i sjaj. Izuzetno su posvećeni klijentima i trude se pružiti najbolje moguće rezultate.
 
   - name: "Amila"
     reference: >
-      Saradnja sa PoliranjeAuta.BA je bila pravo osveženje. Osoblje je veoma stručno, prilagodljivo i tačno. Naša porodična kuća sada sija zahvaljujući njihovom dubinskom čišćenju. Preporučujem ih sa zadovoljstvom!
+      Kada je u pitanju poliranje auta, nema bolje opcije od PoliranjeAuta.BA. Njihova stručnost i pažnja prema vozilu su neosporni. Veoma sam zadovoljna rezultatom i svakako ih preporučujem.
+
+  - name: "Amar"
+    reference: >
+      Tim PoliranjeAuta.BA pruža vrhunsku uslugu poliranja auta. Njihova posvećenost, brzina i efikasnost čine ih pravim liderima u industriji. Svakako ću se ponovo obratiti za njihove usluge.
+
+  - name: "Lejla"
+    reference: >
+      PoliranjeAuta.BA je ekipa kojoj možete potpuno verovati. Moje iskustvo s njima bilo je izuzetno pozitivno. Sjajan izbor za sve koji žele najbolje za svoje vozilo.
+
+  - name: "Emir"
+    reference: >
+      Saradnja s PoliranjeAuta.BA donela je potpunu promenu izgleda mog automobila. Njihova stručnost u poliranju je neosporna, a rezultati govore sami za sebe. Preporučujem ih sa zadovoljstvom!

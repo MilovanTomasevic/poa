@@ -51,11 +51,11 @@ author:
 menu:
   - title:             Blog
     url:               /blog/
-  - title:             Usluge Poliranje Auta
-    url:               /usluge-poliranje-auta/
+  - title:             Usluge Poliranja Auta
+    url:               /usluge-poliranja-auta/
   # - title:             Galerija
   #   url:               /galerija/
-  - title:             Cena Poliranje Auta
+  - title:             Cena Poliranja Auta
     url:               /cena-poliranja-auta/
   - title:             Česta Pitanja
     url:               /cesta-pitanja/

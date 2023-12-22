@@ -2,8 +2,8 @@
 layout: resume
 title: Kontakt
 description: >
-  Ne ustručavajte se kontaktirati nas za sve vaše potrebe vezane za čišćenje. Radujemo se saradnji s vama i stvaranju prostora u kojem možete uživati.
-hide_description: true
+  Nemate vremena za brigu o izgledu svog vozila? Kontaktirajte nas i prepustite nam posao. Poliranje Auta BA je tu da osigura vrhunsku negu vašeg vozila. Naša stručna ekipa je dostupna da odgovori na sva pitanja, pruži informacije o našim uslugama poliranja auta i rezerviše termin koji vam odgovara. Za besprekoran sjaj vašeg automobila, pozovite nas na [065 019 012](tel:+38765019012) i prepustite nam brigu o vašem vozilu.
+hide_description: false
 left_column:
   - work
   - volunteer

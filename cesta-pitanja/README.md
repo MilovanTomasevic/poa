@@ -21,35 +21,24 @@ Dobrodošli na našu stranicu Česta Pitanja, gde želimo olakšati vaše iskust
 - Table of Contents
 {:toc}
 
-### P: Kako se razlikuje Poliranje Auta  od redovnog čišćenja?
-   - *O: Poliranje Auta  ide korak dalje, fokusirajući se na temeljnu higijenu i detalje koji često prolaze neprimećeno u redovnom čišćenju.*
+### Pitanje 1: Zašto je važno redovno poliranje vozila?
+- *Odgovor:* Redovno poliranje održava zaštitni sloj na vozilu, štiti od oksidacije, sunčevog zračenja i drugih štetnih elemenata, čime produžava sjaj i očuvava estetiku vozila.
 
-### P: Koliko često preporučujete Poliranje Auta  stana?
-   - *O: Preporučujemo Poliranje Auta  stana najmanje jednom godišnje, dok bi restorani mogli zahtevati češće čišćenje, zavisno o intenzitetu korišćenja.*
+### Pitanje 2: Da li poliranje može ukloniti sitne ogrebotine na boji vozila?
+- *Odgovor:* Da, poliranje je efikasna metoda za uklanjanje sitnih ogrebotina i swirl markica sa boje vozila, vraćajući mu glatku i sjajnu površinu.
 
-### P: Da li koristite ekološki prihvatljive proizvode za čišćenje?
-   - *O: Da, angažujemo se da koristimo ekološki prihvatljive proizvode koji su efikasni u čišćenju, ali ne štete okolini.*
+### Pitanje 3: Kako odabrati pravi tip poliranja za svoje vozilo?
+- *Odgovor:* Tip poliranja zavisi od potreba vozila. Standardno poliranje je dobro za osnovno održavanje, dok premium poliranje ili nano keramičko poliranje pružaju dodatnu zaštitu i dugotrajan sjaj.
 
-### P: Kako se vrši organizacija prostora u sklopu vaših usluga?
-   - *O: Naši stručnjaci će s vama sarađivati kako bismo razumeli vaše potrebe i prilagodili organizaciju prostora prema vašem životnom stilu.*
+### Pitanje 4: Koliko često treba vršiti poliranje vozila?
+- *Odgovor:* Preporučuje se poliranje vozila najmanje jednom godišnje. Međutim, učestalost može varirati u zavisnosti od faktora kao što su vremenski uslovi, izloženost suncu i opšte održavanje vozila.
 
-### P: Koja je procedura za restoransko čišćenje tokom radnog vremena?
-   - *O: Radimo sa restoranima da razvijemo plan čišćenja koji najmanje ometa poslovanje. Često obavljamo čišćenje van radnog vremena.*
+### Pitanje 5: Da li poliranje može poboljšati vidljivost farova i stop svetala?
+- *Odgovor:* Da, poliranje farova i stop svetala može poboljšati njihovu jasnoću i vidljivost, čime doprinosi većoj sigurnosti tokom noćne vožnje.
 
-### P: Da li nudite specijalne pakete za redovne klijente?
-   - *O: Da, imamo različite pakete i programa lojalnosti za redovne klijente kako bismo im omogućili povoljnosti i dodatne usluge. Pogledajte našu stranicu sa cenama.*
+### Pitanje 6: Da li je nano keramičko poliranje vodootporno?
+- *Odgovor:* Da, nano keramičko poliranje stvara vodootporni sloj na površini vozila, štiteći ga od vode, prljavštine i drugih štetnih uticaja.
 
-### P: Kako rezervisati termin za čišćenje?
-   - *O: Rezervaciju možete obaviti putem našeg sajta, telefonom ili direktnim posetom našem sedištu.*
-
-### P: Koliko vremena je potrebno za Poliranje Auta  stana?
-   - *O: Vreme zavisi od veličine stana i opsega čišćenja. Procena se daje prilikom dogovora o terminu.*
-
-### P: Da li koristite specifične tehnike za čišćenje restorana?
-   - *O: Da, koristimo specifične tehnike prilagođene restoranima, uključujući dezinfekciju kuhinjskih površina, toaleta i prostora za goste.*
-
-### P: Da li nudite hitne intervencije za hitne situacije poput prokišnjavanja ili nesreća u restoranu?
-   - *O: Da, imamo timove spremne za hitne intervencije kako bismo rešili nepredviđene situacije u najkraćem mogućem roku.*
 
 <div class="centered">
 <lord-icon
@@ -59,3 +48,5 @@ Dobrodošli na našu stranicu Česta Pitanja, gde želimo olakšati vaše iskust
     style="width:250px;height:250px">
 </lord-icon>
 </div>
+
+Imate li još pitanja? Slobodno nas kontaktirajte na [065 019 012](tel:+38765019012) kako bismo vam pružili dodatne informacije o našim uslugama poliranja vozila. 🚗💫
