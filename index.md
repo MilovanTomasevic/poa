@@ -7,8 +7,10 @@ description: >
   Poliranje Auta BA na 065 019 012 ! Profesionalna Higijena za Vaše Prostore u Prijedoru, Banjaluci, Sanskom Mostu i Novom Gradu!
 hide_description: true
 selected_projects:
-- _projects/dubinsko-ciscenje-doma.md
-- _projects/restoransko-ciscenje.md
+- _projects/dubinsko-ciscenje-ba.md
+- _projects/dubinsko-pranje-ba.md
+- _projects/poliranje-auta-ba.md
+- _projects/pranje-auta-ba.md
 more_projects: usluge-poliranje-auta.md
 selected_posts:
   - sa-poliranjem-auta-ba/_posts/2023-12-12-kada-i-zasto-polirati-automobil.md
